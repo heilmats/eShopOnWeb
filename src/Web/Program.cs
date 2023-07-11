@@ -1,6 +1,4 @@
-﻿// My fourth change
-// Testing my first PR
-//My second change
+﻿// My firts change
 using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using BlazorAdmin;
